@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: History faculty
 
 # Organizations/Affiliations
 organizations:
-- name: History Department, Florida State University
+- name: Florida State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

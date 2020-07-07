@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Editorial collective
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: Florida State University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,4 +45,21 @@ email: ""
 user_groups:
 ---
 
-This is a group of academics in Tallahassee.
+As Tallahassee continues to reckon with COVID-19 and the fallout from the fatal police shootings of Wilbon Cleveland Woodard, Mychael Johnson, and Tony McDade, the city’s past and present are ripe for critical examination. All Tallahasseeans — from the campuses of Florida A&M, Florida State, and Tallahassee Community College, to the city government, and beyond — carry invaluable knowledge of the city’s history, political economy, infrastructure, and culture.
+
+As such, the Tallahassee Review — a collaborative project spearheaded by FSU’s Department of History — seeks written contributions illuminating some underexplored (or unexplored) component of the city’s past and present. Submissions should be 500 to 1,000 words in length and should be written in clear, accessible prose. Short essays that shed light on the political, economic, cultural, and social conditions that helped produce the Tallahassee of the twenty-first century are especially welcome.
+
+Selected essays will be published on a newly established website, which will serve as a vital resource for anyone interested in learning more about this vibrant, though often conflicted and misunderstood, city. Submissions and questions should be directed to tallahassee-review@protonmail.com.
+
+The Tallahassee Review publishes short topical writing addressed to a general audience. We aim to show connections between academic expertise and current events. The opinions expressed do not represent our employers or institutions.
+
+###  Submission guidelines
+- We solicit writing from academics (including students) in and around Tallahassee.
+- Submissions are limited to 500 words in length.
+- We encourage authors to submit their pieces for publication as op-eds in the Tallahassee Democrat.
+- We encourage authors to submit images for publication alongside their text.
+- Editors will proofread text and prepare it for publication; authors will approve the final rendering of their piece before publication.
+- [publication license]
+- Please include a link to your web presence (departmental homepage, social media) and tags indicating the topics of your pieces.
+- Show references as hyperlinks in the body of the text. Do not use footnotes.
+

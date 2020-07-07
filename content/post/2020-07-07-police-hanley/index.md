@@ -1,8 +1,13 @@
 ---
 title: "Police"
+summary: "Egypt and America"
 date: 2020-07-06
 authors: [will-hanley]
-tags: [police]
+tags: ["police"]
+image:
+  caption: "Khaled Said"
+  focal_point: ""
+  preview_only: false
 ---
 
 Ten years ago this month, outrage over police brutality was the catalyst for the Egyptian revolution of 2011. In this moment of outrage over police brutality in America, it is worth spending some time thinking about similarities and differences between the two situations.
